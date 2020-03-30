@@ -44,6 +44,6 @@ to understand the best way to support them.
 
 # Contributors so far
 
-[Sorav Bansal] (http://www.cse.iitd.ac.in/~sbansal)
-Nishant Sharma (CEO, GoalSmacker)
-Dipinder Sekhon (CEO, Kritikal Solutions)
+- [Sorav Bansal] (http://www.cse.iitd.ac.in/~sbansal)
+- Nishant Sharma (CEO, GoalSmacker)
+- Dipinder Sekhon (CEO, Kritikal Solutions)
