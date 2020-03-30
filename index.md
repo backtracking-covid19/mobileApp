@@ -46,4 +46,5 @@ to understand the best way to support them.
 
 - [Sorav Bansal](http://www.cse.iitd.ac.in/~sbansal)
 - Nishant Sharma (CEO, GoalSmacker)
-- [Dipinder Sekhon](https://www.linkedin.com/in/dipinder/?originalSubdomain=in)
+- [Dipinder Sekhon](http://www.linkedin.com/in/dipinder)
+
